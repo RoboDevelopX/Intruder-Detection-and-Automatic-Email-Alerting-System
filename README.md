@@ -5,7 +5,7 @@ This application/project detects unknown people entered into a specific camera v
 * The model has an accuracy of 96%(approx) in detecting intruders.
 #####
 #####
-**Looking for any Btech/Mtech/Academic projects? Ping me, I have a bunch to share📚**
+
 #####
 
 ## Sample Output of mailed intruder images
